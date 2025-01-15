@@ -1,0 +1,30 @@
+{
+    "search_keyword": "dogs",
+    "data": [
+        {
+            "username": "homewardboundgoldenrescue",
+            "comment_count": 10,
+            "like_count": 509,
+            "post_count": "806",
+            "follower_count": "8411",
+            "follow_count": "2021"
+        },
+        {
+            "username": "factsdailyy",
+            "comment_count": 152,
+            "like_count": 85781,
+            "post_count": "9193",
+            "follower_count": "1262만",
+            "follow_count": "104"
+        },
+        {
+            "username": "kinshippets",
+            "comment_count": 8,
+            "like_count": 1848,
+            "post_count": "1814",
+            "follower_count": "54.6만",
+            "follow_count": "700"
+        }
+    ],
+    "scrape_date": "2025-01-15 15:33:33"
+}
